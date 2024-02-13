@@ -1,2 +1,2 @@
 
-taskkill /F /IM pdf_trial.exe
+taskkill /F /PID %1
